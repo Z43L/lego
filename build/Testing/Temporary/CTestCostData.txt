@@ -1,0 +1,9 @@
+unit 4 0.00800147
+e2e 4 2.41961
+debug_lldb 4 0.229931
+adversarial 4 3.31906
+lgfmt 4 0.84645
+lsp_json 4 0.00154659
+lsp_protocol 4 0.0080166
+pkg 4 0.350607
+---
